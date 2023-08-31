@@ -41,8 +41,8 @@ GET http://localhost:8080/api/v1/publish?message=hello
 
 ```bash
 POST http://localhost:8080/api/v1/publish
-Content-Type: application/json
 
+Content-Type: application/json
 {
     "id": 2,
     "firstName": "Attraya",
